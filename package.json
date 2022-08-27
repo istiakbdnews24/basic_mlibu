@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@quintype/create-malibu-app": "^1.0.10"
+  }
+}
